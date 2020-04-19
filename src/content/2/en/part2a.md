@@ -719,6 +719,8 @@ const total = parts.reduce( (s, p) => {
 
 ![](../../images/2/5b.png)
 
+**Pro tip3:** Look up on how to reduce an array of objects here [StackOverflow](https://stackoverflow.com/questions/5732043/javascript-reduce-on-array-of-objects)
+
 <h4>2.4: Course contents step9</h4>
 
 
